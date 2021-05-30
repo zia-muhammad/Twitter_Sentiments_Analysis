@@ -4,7 +4,7 @@ The goal of the project is to classify positive and negative tweets using Machin
 
 **Twitter Sentiment Analysis Dataset**
 Download from here: http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
-1. Text Processing
+1. **Text Processing**
 
 	A. Cleaning of raw data
 	
@@ -12,12 +12,12 @@ Download from here: http://thinknook.com/wp-content/uploads/2012/09/Sentiment-An
 	
 	C. Lemmatization
 
-2. Top 10 most positive and negative words
-3. Plot most frequent words in the data using Zipf's Law
-4. Word Embedding Techniques
+2. **Top 10 most positive and negative words**
+3. **Plot most frequent words in the data using Zipf's Law**
+4. **Word Embedding Techniques**
     A. Bag of Words
-5. Model Building: I used Logistic Regression for twitter sentiments analysis.
-6. Performance Metrics
+5. **Model Building: I used Logistic Regression for twitter sentiments analysis**
+6. **Performance Metrics**
     A: Accuracy
     B: F1 score
    
