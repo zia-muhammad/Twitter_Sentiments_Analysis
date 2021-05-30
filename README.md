@@ -33,6 +33,6 @@ Run Jupyter notebook
 
 **END Note**
 
-In this article, We learned how to approach a sentiment analysis problem. We started with
+We learned how to approach a sentiment analysis problem. We started with
 preprocessing and exploration of data. Then we extracted features from the cleaned text using
 Bag-of-Words. Finally, I were able to build a Logistic Regression models to classify the tweets.
