@@ -3,7 +3,9 @@
 The goal of the project is to classify positive and negative tweets using Machine learning model. 
 
 **Twitter Sentiment Analysis Dataset**
+
 Download from here: http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip
+
 1. **Text Processing**
 
 	A. Cleaning of raw data
